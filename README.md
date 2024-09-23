@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Bhavesh Vaniya
 
-[![Welcome to my GitHub]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ2Y29odWtrdWsyNXd4N3BqN2RwaXdjYnNicHA5dThkMmVobGxkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif))](https://github.com/Bhhvshh)
+[![Welcome to my GitHub]((https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ2Y29odWtrdWsyNXd4N3BqN2RwaXdjYnNicHA5dThkMmVobGxkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif))](https://github.com/Bhhvshh)
 
 ### 🚀 About Me
 
