@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Bhavesh Vaniya
 
-[![Welcome to my GitHub](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ2Y29odWtrdWsyNXd4N3BqN2RwaXdjYnNicHA5dThkMmVobGxkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif))](https://github.com/Bhhvshh)
+[![Welcome to my GitHub](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ2Y29odWtrdWsyNXd4N3BqN2RwaXdjYnNicHA5dThkMmVobGxkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)](https://github.com/Bhhvshh)
 
 ### 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student at Nirma University
+- 🎓 Final Year Computer Science Student at Nirma University
 - 💻 Aspiring Web Developer and Software Engineer
-- 📊 I love working on **Web Development**, **Java Projects**, and exploring new tech
+- 📊 I love working on **Web Development**, **DSA**, and exploring new tech
 
 ---
 
