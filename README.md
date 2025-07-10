@@ -27,9 +27,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-Vala&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhhvshh&theme=tokyonight" alt="streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Vala&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhhvshh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
